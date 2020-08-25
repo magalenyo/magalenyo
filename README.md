@@ -4,6 +4,8 @@ I'm a 23 years old computers engineer and I'm currently working for Everis. I wi
 
 I really love videogames 🎮!
 
+![Image of Big daddy](https://roselilyandme.files.wordpress.com/2013/04/bigdaddy.jpg?w=334&h=300)
+
 <!--
 **magalenyo/magalenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
