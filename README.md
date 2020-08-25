@@ -1,6 +1,8 @@
 # Hi, my name is Miguel! 😄
 
-I'm a 23 years old computers engineer and I'm currently working for Everis. I will be starting my Master degree in Advanced Programming for AAA video games in October 2020!
+I'm a 23 years old computers engineer and I'm currently working for Everis.
+
+I will be starting my Master degree in Advanced Programming for AAA video games in October 2020!
 
 I really love videogames 🎮!
 
