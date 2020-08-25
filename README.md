@@ -1,4 +1,8 @@
-### Hi there 👋
+#Hi, my name is Miguel!
+
+I'm a 23 years old computers engineer and I'm currently working for Everis.
+
+I love videogames 🎮!
 
 <!--
 **magalenyo/magalenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
