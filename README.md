@@ -1,8 +1,8 @@
 # Hi, my name is Miguel! 😄
 
-I'm a 24 years old computers engineer and I'm currently working for Everis.
+I'm a 25 years old Computer Engineer and I'm currently working for NTT Data.
 
-I will be starting my Master degree in Advanced Programming for AAA video games in October 2020!
+I have graduated in Master's in Advanced Programming for AAA Video Games.
 
 I really love videogames 🎮!
 
