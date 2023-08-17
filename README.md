@@ -1,6 +1,6 @@
 # Hi, my name is Miguel! 😄
 
-I'm a 25 years old Computer Engineer and I'm currently working for NTT Data.
+I'm a 26 years old Computer Engineer and I'm currently working for NTT Data.
 
 I have graduated in Master's in Advanced Programming for AAA Video Games.
 
