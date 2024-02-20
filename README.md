@@ -1,8 +1,10 @@
 # Hi, my name is Miguel! 😄
 
-I'm a 26 years old Computer Engineer and I'm currently working for NTT Data.
+I'm a 27 years old Computer Engineer and I'm currently working for Next Digital.
 
 I have graduated in Master's in Advanced Programming for AAA Video Games.
+
+Check out my website at: [miguelangelbuenorivera.com](http://miguelangelbuenorivera.com)
 
 I really love videogames 🎮!
 
